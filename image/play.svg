@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<title>Group 1000004696</title>
+	<style>
+		.s0 { fill: none;stroke: #00bd82;stroke-miterlimit:100 } 
+		.s1 { fill: #e2f471 } 
+	</style>
+	<g id="Group 1000004696">
+		<g id="video button">
+			<path id="Ellipse 4053" class="s0" d="m17 34c-9.4 0-17-7.6-17-17 0-9.4 7.6-17 17-17 9.4 0 17 7.6 17 17 0 9.4-7.6 17-17 17z"/>
+			<path id="play " class="s1" d="m22.1 17l-7.6 4.3v-8.6z"/>
+		</g>
+	</g>
+</svg>
